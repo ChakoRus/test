@@ -15,7 +15,7 @@ class Test
 	}
 	public function foo()
 	{
-
+		// еще код
 	}
 }
 
