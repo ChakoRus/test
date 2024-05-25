@@ -9,6 +9,10 @@ class Test
 		$this->name = $name;
 	}
 
+	public function foo()
+	{
+
+	}
 }
 
 var_dump(new Test('Max'));
