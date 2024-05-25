@@ -9,6 +9,10 @@ class Test
 		$this->name = $name;
 	}
 
+	public function bar() 
+	{
+
+	}
 	public function foo()
 	{
 
