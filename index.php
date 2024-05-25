@@ -11,7 +11,7 @@ class Test
 
 	public function bar() 
 	{
-
+		// какой то новый код
 	}
 	public function foo()
 	{
